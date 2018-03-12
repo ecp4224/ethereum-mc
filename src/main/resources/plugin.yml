@@ -1,0 +1,6 @@
+ name: McEthApi
+ version: 0.0.1
+ description: An API to link to the Etherum blockchain
+ author: edkek
+ website: edkek.io
+ main: io.edkek.mc.ethapi.McEthereum
